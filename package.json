@@ -1,0 +1,15 @@
+{
+  "name": "damson-util",
+  "description": "Utility functions for damson plugins",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "damsonjs/damson-util",
+  "scripts": {
+    "test": "jshint *.js lib/*.js"
+  },
+  "author": "Andrey Zhylin <andrey.zhylin@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fancy-log": "^1.2.0"
+  }
+}
